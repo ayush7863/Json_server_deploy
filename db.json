@@ -23,5 +23,6 @@
       "fee": 100
     }
   ],
-  "users": []
+  "users": [],
+  "bookAppoint":[]
 }
